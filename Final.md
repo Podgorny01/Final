@@ -28,7 +28,7 @@
             <li><a href="#skincare">Skincare</a></li>
             <li><a href="#education">Education</a></li>
             <li><a href="#hobbies">Hobbies</a></li>
-            <li><a href="javascript:void(0);" class="icon" onclick="myFunction()"></li>
+            <li><a href="javascript:void(0);" class="icon" onclick="myFunction()"></li>Code
               <i class="fa fa-bars"></i>
         </a></ul>
     </div>
