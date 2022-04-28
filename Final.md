@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Final</title>
+    <title>Final Home Page</title>
     <meta charset="utf-8>
     <meta name="viewport" content="width=device-width initial-scale=1 shrink-to-fit=no">
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -23,13 +23,14 @@
         <p>
             I am a junior at the University of Missouri and studying Environmental Science with an emphasis in water. Navigate my website using the following links.
         </p> 
-        <a href="#recipe" class="active">Recipe</a>
-        <a href="#skincare">Skincare</a>
-        <a href="#education">Education</a>
-        <a href="#hobbies">Hobbies</a>
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <ul>
+            <li><a href="#recipe" class="active">Recipe</a></li>
+            <li><a href="#skincare">Skincare</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#hobbies">Hobbies</a></li>
+            <li><a href="javascript:void(0);" class="icon" onclick="myFunction()"></li>
               <i class="fa fa-bars"></i>
-        </a>
+        </a></ul>
     </div>
 
 
