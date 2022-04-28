@@ -15,10 +15,14 @@
      
 </head>
 
+<>
 <body>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
         integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     <div class="topnav" id="myTopnav">
+        <p>
+            I am a junior at the University of Missouri and studying Environmental Science with an emphasis in water. Navigate my website using the following links.
+        </p> 
         <a href="#recipe" class="active">Recipe</a>
         <a href="#skincare">Skincare</a>
         <a href="#education">Education</a>
