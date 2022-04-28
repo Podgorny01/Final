@@ -19,8 +19,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
         integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     <div class="topnav" id="myTopnav">
-        <a href="#home" class="active">Home</a>
-        <a href="#about">About</a>
+        <a href="#recipe" class="active">Recipe</a>
+        <a href="#skincare">Skincare</a>
         <a href="#education">Education</a>
         <a href="#hobbies">Hobbies</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
