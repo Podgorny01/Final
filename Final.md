@@ -26,7 +26,6 @@
         <ul>
             <li><a href="#recipe" class="active">Recipe</a></li>
             <li><a href="#skincare">Skincare</a></li>
-            <li><a href="#education">Education</a></li>
             <li><a href="#hobbies">Hobbies</a></li>
             <li><a href="#code">Code</a></li>
         </a></ul>
