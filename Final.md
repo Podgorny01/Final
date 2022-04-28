@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 
+<h1>Final Home Page</h1>
+<h2> Hi! I'm Jillian Podgorny</h2>
+
 <head>
     <title>Final Home Page</title>
     <meta charset="utf-8>
