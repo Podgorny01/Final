@@ -25,11 +25,11 @@
             I am a junior at the University of Missouri and studying Environmental Science with an emphasis in water. Navigate my website using the following links.
         </p> 
         <ul>
-            <li><a href="#Recipe.md" class="active">Recipe</a></li>
-            <li><a href="#skincare">Skincare</a></li>
-            <li><a href="#hobbies">Hobbies</a></li>
-            <li><a href="#code">Code</a></li>
-        </a></ul>
+            <li><a href="Recipe.html">Recipe</a></li>
+            <li><a href="Skincare.html">Skincare</a></li>
+            <li><a href="Hobbies.html">Hobbies</a></li>
+            <li><a href="Code.html">Code</a></li>
+        </ul>
     </div>
 
 
